@@ -1,0 +1,23 @@
+h1{
+	align-items: center;
+	text-align: center;
+	width: 90vw;
+	height: 10vh;
+	background-color: #009c3b;
+	color: black;
+	border: 5px solid black;
+	margin: auto;
+}
+h2{
+	align-items: right;
+	text-align: center;
+	width: 50vw;
+	height: 5vh;
+	background-color: #ffdf00;
+	color: black;
+	border: 5px solid black;
+	margin: auto;
+}
+body{
+	background-color: #002776;
+}
